@@ -1,4 +1,4 @@
-<h1 align="center">Hi, this is BJ 👋</h1>
+<h1 align="center">Hi, this is Bijeet 👋</h1>
 
 <p align="center">
   <b>Bijeet Nayek</b> · Tech Geek.<br/>
@@ -38,6 +38,29 @@
   <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🚀 What I'm building
+
+- 📱 **DoomGuard** — a Flutter-based digital wellbeing app to help reduce doomscrolling and build focus habits (Firebase, Firestore, GoRouter)
+- 🍽️ **RestaurantIQ** — an ML project predicting restaurant success/ratings for major Indian cities (Python, Pandas, scikit-learn)
+- 🚩 Active in **CTF (Capture The Flag)** competitions
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BijeetNayek0409&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BijeetNayek0409&theme=dark&hide_border=true" alt="streak stats" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijeetNayek0409&layout=compact&theme=dark&hide_border=true" alt="top langs" />
 </p>
 
 ---
