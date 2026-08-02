@@ -46,10 +46,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BijeetNayek0409&theme=dark&hide_border=true" alt="streak stats" />
-</p>
-
----
-
 <p align="center"><b>Thank you! ❤️</b></p>
