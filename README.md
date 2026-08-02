@@ -48,4 +48,3 @@
 
 ---
 
-<p align="center"><b>Thank you! ❤️</b></p>
