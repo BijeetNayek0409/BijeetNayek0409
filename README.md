@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  A tech nerd from Mumbai, India — building in  AI/ML and DataScience.
+  A tech nerd from Mumbai, India — building in AI/ML and DataScience.
 </p>
 
 <p align="center">
@@ -46,21 +46,8 @@
 
 ---
 
-### 🚀 What I'm building
-
-- 📱 **DoomGuard** — a Flutter-based digital wellbeing app to help reduce doomscrolling and build focus habits (Firebase, Firestore, GoRouter)
-- 🍽️ **RestaurantIQ** — an ML project predicting restaurant success/ratings for major Indian cities (Python, Pandas, scikit-learn)
-- 🚩 Active in **CTF (Capture The Flag)** competitions
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BijeetNayek0409&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BijeetNayek0409&theme=dark&hide_border=true" alt="streak stats" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijeetNayek0409&layout=compact&theme=dark&hide_border=true" alt="top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BijeetNayek0409&theme=dark&hide_border=true" alt="streak stats" />
 </p>
 
 ---
