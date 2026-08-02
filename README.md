@@ -1,4 +1,4 @@
-<h1 align="center">Hi, this is BJ 👋</h1>
+<h1 align="center">Hi, this is Bijeet 👋</h1>
 
 <p align="center">
   <b>Bijeet Nayek</b> · Tech Geek.<br/>
