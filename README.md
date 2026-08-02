@@ -24,7 +24,9 @@
   <a href="https://www.linkedin.com/in/bijeet-nayek-55453730a/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+  <a href="https://github.com/BijeetNayek0409/BijeetNayek0409/blob/main/Bijeet_SY_resume.pdf">
+    <img src="https://img.shields.io/badge/RESUME-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -46,3 +48,4 @@
 
 ---
 
+<p align="center"><b>Thank you! ❤️</b></p>
