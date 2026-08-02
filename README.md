@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  A tech nerd from Mumbai, India — building in Flutter, AI/ML, and cybersecurity.
+  A tech nerd from Mumbai, India — building in  AI/ML and DataScience.
 </p>
 
 <p align="center">
